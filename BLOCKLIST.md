@@ -3,9 +3,11 @@
 List of instances which have been marked as bad actors. 
 You can find more information in our [README.md](https://github.com/F4R4DAY/faradays-fediverse-blocklist/blob/main/README.md)
 
-| **Instance**                         |
-|:------------------------------------:|
+| Instance                             |
+|--------------------------------------|
+| 23.illuminati.org                    |
 | anime.website                        |
+| ap.uwu.st                            |
 | bae.st                               |
 | bajax.us                             |
 | baraag.net                           |
@@ -36,11 +38,13 @@ You can find more information in our [README.md](https://github.com/F4R4DAY/fara
 | detroitriotcity.com                  |
 | develop.gab.com                      |
 | egirls.gay                           |
-| en.io                                |
+| elekk.xyz                            |
+| en0.io                               |
 | f.haeder.net                         |
 | freeatlantis.com                     |
 | freecumextremist.com                 |
 | freefedifollowers.ga                 |
+| freespeech.firedragonstudios.comx    |
 | freespeechextremist.com              |
 | frennet.link                         |
 | gab.ai                               |
@@ -61,11 +65,13 @@ You can find more information in our [README.md](https://github.com/F4R4DAY/fara
 | ligma.pro                            |
 | lizards.live                         |
 | lolicon.rocks                        |
+| lovingexpressions.net                |
 | mastodon.popps.org                   |
 | meta-tube.de                         |
 | metacode.biz                         |
 | mi.tkw.fm                            |
 | midnightride.rs                      |
+| monads.online                        |
 | mugicha.club                         |
 | my.dirtyhobby.xyz                    |
 | netzsphaere.xyz                      |
@@ -88,8 +94,10 @@ You can find more information in our [README.md](https://github.com/F4R4DAY/fara
 | pleroma.rareome.ga                   |
 | pleroma.stream                       |
 | poa.st                               |
+| poster.place                         |
 | posting.lolicon.rocks                |
 | researchanddestroy.technology        |
+| rojogato.com                         |
 | ryona.agency                         |
 | s.sneak.berlin                       |
 | seal.cafe                            |
@@ -100,6 +108,8 @@ You can find more information in our [README.md](https://github.com/F4R4DAY/fara
 | skippers-bin.com                     |
 | sleepy.cafe                          |
 | social.ancreport.com                 |
+| social.beachcom.org                  |
+| social.diskseven.com                 |
 | social.nobodyhasthe.biz              |
 | social.researchanddestroy.technology |
 | social.urspringer.de                 |

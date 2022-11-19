@@ -44,7 +44,7 @@ You can find more information in our [README.md](https://github.com/F4R4DAY/fara
 | freeatlantis.com                     |
 | freecumextremist.com                 |
 | freefedifollowers.ga                 |
-| freespeech.firedragonstudios.comx    |
+| freespeech.firedragonstudios.com     |
 | freespeechextremist.com              |
 | frennet.link                         |
 | gab.ai                               |

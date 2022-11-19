@@ -103,6 +103,7 @@ You can find more information in our [README.md](https://github.com/F4R4DAY/fara
 | seal.cafe                            |
 | shitpost.cloud                       |
 | shitposter.club                      |
+| shota.house                          |
 | shortstackran.ch                     |
 | sinblr.com                           |
 | skippers-bin.com                     |
